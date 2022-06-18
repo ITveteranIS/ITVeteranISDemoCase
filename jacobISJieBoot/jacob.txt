@@ -1,0 +1,7 @@
+
+jacob-1.18 下载地址 
+https://www.aliyundrive.com/s/Aza6ejdgxdA
+
+把里面 jacob-1.18-x64.dll 复制到 jdk bin 目录下面
+
+
