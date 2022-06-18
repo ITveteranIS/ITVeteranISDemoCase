@@ -6,4 +6,9 @@ public interface IForestApi {
 
     @Get("http://ditu.amap.com/service/regeo?longitude={0}&latitude={1}")
     Map getLocation(String longitude, String latitude);
+
+    @Get("https://start.spring.io/actuator/info")
+    Map getBootCloud();
+
+    
 }
